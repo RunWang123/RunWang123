@@ -2,7 +2,7 @@
   <h3 align="center">Heya 👋, I'm Run</h3>
 </p>
 <p align="center">
-    <a href="https://runwang123.github.io">About Me</a>
+    <a href="https://runwang123.github.io/home">About Me</a>
     ·
     <a href="mailto:wangr654@gmail.com">Email</a>
     ·
@@ -20,7 +20,7 @@ Building Next-Gen Mobile Apps</h4>
 
 I'm most passionate about friendly software design 📲, solid architecture 👷‍♀️, best practices 🧰, and documentation 📖.
 
-- 🔭 I’m currently working on **[Computer Packages Inc](https://www.qurantalk.app/)**.
+- 🔭 I’m currently working on **[Computer Packages Inc](https://www.computerpackages.com/)**.
 - 🌱 I’m currently interested in **Memristor and Hebbian Learning**.
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I am gonna join Ohio State University in Summer 2024 .
