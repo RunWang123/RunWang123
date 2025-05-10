@@ -20,10 +20,9 @@ Building Next-Gen Mobile Apps</h4>
 
 I'm most passionate about friendly software design 📲, solid architecture 👷‍♀️, best practices 🧰, and documentation 📖.
 
-- 🔭 I’m currently working on **[Computer Packages Inc](https://www.computerpackages.com/)**.
-- 🌱 I’m currently interested in **Memristor and Hebbian Learning**.
+- 🔭 I’m currently working on **Mobile and Edge Computing**.
+- 🌱 I’m currently interested in **Mobile and Edge Computing**.
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I am gonna join Ohio State University in Summer 2024 .
 
 ### Projects
 
