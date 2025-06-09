@@ -18,19 +18,14 @@ Building Next-Gen Mobile Apps</h4>
 </p>
 <br/>
 
-I'm most passionate about friendly software design 📲, solid architecture 👷‍♀️, best practices 🧰, and documentation 📖.
+I'm most passionate about Mobile and Edge Computing.
 
 - 🔭 I’m currently working on **Mobile and Edge Computing**.
 - 🌱 I’m currently interested in **Mobile and Edge Computing**.
 - 😄 Pronouns: He/Him/His
 
 ### Projects
-
-#### Reactjs & Nextjs
-[**Home**](https://github.com/runwang123/home)<br />Portfolio website template.
-<br />
-
-<hr/>
+MAPP: Predictive UI View Pre-caching for Improving the Responsiveness of Mobile Apps (IWQoS 2025)
 
 ### Support my work
 
