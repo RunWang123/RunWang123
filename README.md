@@ -2,7 +2,7 @@
   <h3 align="center">Heya 👋, I'm Run</h3>
 </p>
 <p align="center">
-    <a href="https://runwang123.github.io/home">About Me</a>
+    <a href="https://runwang123.github.io/">About Me</a>
     ·
     <a href="mailto:wangr654@gmail.com">Email</a>
     ·
