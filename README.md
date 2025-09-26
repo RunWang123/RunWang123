@@ -9,8 +9,7 @@
     <a href="https://linkedin.com/in/runw">LinkedIn</a>
 </p>
 <p align="center">
-  <h4 align="center">Driven by Flutter | 
-Building Next-Gen Mobile Apps</h4>
+  <h4 align="center">Driven by Flutter
 </p>
 
 <p align="center"> 
