@@ -20,8 +20,8 @@ Building Next-Gen Mobile Apps</h4>
 
 I'm most passionate about Mobile and Edge Computing.
 
-- 🔭 I’m currently working on **Mobile and Edge Computing**.
-- 🌱 I’m currently interested in **Mobile and Edge Computing**.
+- 🔭 I’m currently working on **3D Vision and AI Security for Autonomous Vehicles**.
+- 🌱 I’m currently interested in **3D Vision, AI Security, Mobile and Edge Computing**.
 - 😄 Pronouns: He/Him/His
 
 ### Projects
