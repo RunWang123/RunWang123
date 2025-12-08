@@ -39,7 +39,7 @@
 ☕️ If you'd like to support my work further, you can buy me a book to fuel my learning journey!
 
 <div>
-  <a href="https://www.buymeacoffee.com/runw"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=%F0%9F%93%96&slug=runw&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+  <a href="https://www.buymeacoffee.com/runw" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </div>
 <br/>
 
