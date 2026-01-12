@@ -1,5 +1,5 @@
 <p align="center">
-  <h3 align="center">Hey 👋, I'm Run</h3>
+  <h3 align="center">Hey, I'm Run</h3>
 </p>
 <p align="center">
     <a href="https://runwang123.github.io/">About Me</a>
@@ -9,7 +9,7 @@
     <a href="https://linkedin.com/in/runw">LinkedIn</a>
 </p>
 <p align="center">
-  <h4 align="center">🎓 PhD Student @ Clemson University | 🤖 AI Researcher | 🚗 Autonomous Vehicle Enthusiast</h4>
+  <h4 align="center"> PhD Student @ Clemson University | AI Researcher | Autonomous Vehicle Enthusiast</h4>
 </p>
 
 <p align="center"> 
@@ -19,11 +19,11 @@
 
 ## About Me
 
-- 🔭 I'm currently working on **3D Vision and AI Security for Autonomous Vehicles**
-- 🌱 I'm interested in **3D Vision, Generative Models, AI Security, Mobile and Edge Computing**
-- 🎓 PhD student at Clemson University, co-advised by Dr. [Siyu Huang](https://siyuhuang.github.io/) and Dr. [Mert D. Pesé](https://mpese.com/)
-- 📍 Previously: Graduate Research Associate @ Ohio State University
-- 😄 Pronouns: He/Him/His
+- I'm currently working on **3D Vision and AI Security for Autonomous Vehicles**
+- I'm interested in **3D Vision, Generative Models, AI Security, Mobile and Edge Computing**
+- PhD student at Clemson University, co-advised by Dr. [Siyu Huang](https://siyuhuang.github.io/) and Dr. [Mert D. Pesé](https://mpese.com/)
+- Previously: Graduate Research Associate @ Ohio State University
+- Pronouns: He/Him/His
 
 ## Recent Publications
 
@@ -35,8 +35,8 @@
 
 ## Support My Work
 
-⭐️ If you find any of my projects useful or interesting, consider giving them a star! Your support means a lot to me.  
-☕️ If you'd like to support my work further, you can buy me a book to fuel my learning journey!
+If you find any of my projects useful or interesting, consider giving them a star! Your support means a lot to me.  
+If you'd like to support my work further, you can buy me a book to fuel my learning journey!
 
 <div>
   <a href="https://www.buymeacoffee.com/runw" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
